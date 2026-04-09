@@ -1,0 +1,33 @@
+# PDF files
+*.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+content/.~lock.1. Abstract & Introduction  Proposal.docx#
+content/.~lock*
+*.pdf
+munsif
+ashfaq
+
+
